@@ -1,16 +1,37 @@
-.logo1 {
+.biaozhi {
     width: 50px;
     height: 50px;
-    }
-.logo2 {
     position: absolute;
+    vertical-align: middle;
+    }
+.wenzi1 {
+    padding: 50px;
+    position: relative;
     color:#111;
-    line-height: 1;
-    font-weight:700px;
+    font-weight:bold;
 }
-.logo3 {
-   
-    line-height: 1;
-    font-weight: 500;
+.wenzi2{
+    position: relative;
+   padding: 50px;
+    line-height: 2;
+    font-weight: 200;
 
+}
+.two {
+    text-decoration:none;
+
+}
+.logo4 {
+    /* display:flex;
+     align-items: center; 
+     box-shadow:none;
+     border: none; 
+     padding: 0; 
+    background-color: transparent; 
+     text-align: inherit;  */
+    width: 40px;
+    height: 40px;
+    float: right;
+
+    
 }
